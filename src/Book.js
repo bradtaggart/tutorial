@@ -2,7 +2,7 @@ import React from 'react';
 
 const Book = ({img, title, author}) => {
   const clickHandler= () => {
-    alert('hello world');
+    alert('hello github');
   };
   const complexExample = (author) => {
     console.log(author);
